@@ -1,0 +1,6 @@
+{
+  "name": "XAUUSD SMC AI Signal System",
+  "description": "Smart Money Concept analysis engine for XAUUSD",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

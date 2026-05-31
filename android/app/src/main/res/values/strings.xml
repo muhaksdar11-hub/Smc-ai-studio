@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">XAUUSD SMC</string>
+    <string name="title_activity_main">XAUUSD SMC</string>
+    <string name="package_name">com.smc.xauusd</string>
+    <string name="custom_url_scheme">com.smc.xauusd</string>
+</resources>
